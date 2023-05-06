@@ -1,0 +1,5 @@
+@media screen and (max-width:600px) {
+  .cotainer__menu-title > h1 {
+    font-size: 10px;
+  }
+}
