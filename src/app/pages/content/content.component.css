@@ -26,5 +26,6 @@
 }
 
 .content__description > p{
+  margin-top: 20px;
   color: rgb(77, 76, 76);
 }
